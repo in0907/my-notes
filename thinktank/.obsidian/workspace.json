@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "58233b9479f4c517",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-閃念筆記/DEMO附件.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,13 +128,21 @@
                 "file": "2023-10-15.md"
               }
             }
+          },
+          {
+            "id": "74d0efa6b9875dcc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,21 +155,21 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "35bca3006b06b72b",
+  "active": "74d0efa6b9875dcc",
   "lastOpenFiles": [
+    "1-日誌/esharp筆記.md",
+    "0-閃念筆記/1223.md",
+    "0-閃念筆記/DEMO附件.md",
+    "2023-10-15.md",
     "0-閃念筆記/attachments/樓雨晴-綺情之尋覓篇-重生.pdf",
     "0-閃念筆記/attachments",
     "樓雨晴-綺情之尋覓篇-重生.pdf",
-    "2023-10-15.md",
-    "0-閃念筆記/DEMO附件.md",
     "未命名",
     "Z-樣板",
     "X-主題索引",
     "4-生產力",
     "3-投資理財",
     "2-文獻筆記",
-    "0-閃念筆記",
-    "1-日誌/esharp筆記.md",
-    "1-日誌"
+    "0-閃念筆記"
   ]
 }
