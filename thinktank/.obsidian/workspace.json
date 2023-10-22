@@ -11,11 +11,14 @@
             "id": "4a63826d8763a52f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2023-10-15.md",
-                "mode": "source",
-                "source": true
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-15.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-15.md",
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-15.md"
+                "file": "未命名.canvas"
               }
             }
           },
@@ -155,12 +158,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "74d0efa6b9875dcc",
+  "active": "4a63826d8763a52f",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "2023-10-15.md",
     "1-日誌/esharp筆記.md",
     "0-閃念筆記/1223.md",
     "0-閃念筆記/DEMO附件.md",
-    "2023-10-15.md",
     "0-閃念筆記/attachments/樓雨晴-綺情之尋覓篇-重生.pdf",
     "0-閃念筆記/attachments",
     "樓雨晴-綺情之尋覓篇-重生.pdf",
