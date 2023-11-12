@@ -11,14 +11,11 @@
             "id": "4a63826d8763a52f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "hello word.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "1-日誌/esharp筆記.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hello word.canvas",
+                "file": "1-日誌/esharp筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hello word.canvas",
+                "file": "1-日誌/esharp筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hello word.canvas"
+                "file": "1-日誌/esharp筆記.md"
               }
             }
           },
@@ -158,10 +155,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "4a63826d8763a52f",
+  "active": "35bca3006b06b72b",
   "lastOpenFiles": [
-    "0-閃念筆記/未命名.md",
+    "2-文獻筆記/未命名",
     "hello word.canvas",
+    "0-閃念筆記/未命名.md",
     "未命名.canvas",
     "2023-10-15.md",
     "1-日誌/esharp筆記.md",
