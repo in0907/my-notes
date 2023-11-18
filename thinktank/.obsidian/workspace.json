@@ -11,14 +11,11 @@
             "id": "4a63826d8763a52f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": -2.1999664306640625,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "1-文獻筆記/聰明工作者的防呆技術.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "1-文獻筆記/聰明工作者的防呆技術.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "1-文獻筆記/聰明工作者的防呆技術.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "1-文獻筆記/聰明工作者的防呆技術.md"
               }
             }
           },
@@ -159,10 +156,12 @@
   },
   "active": "4a63826d8763a52f",
   "lastOpenFiles": [
+    "1-文獻筆記/attachments/Pasted image 20231118182231.png",
+    "1-文獻筆記/attachments",
+    "未命名.canvas",
     "attachments/曼陀羅圖.jfif",
     "attachments",
     "hello word.canvas",
-    "未命名.canvas",
     "2023-10-15.md",
     "1-文獻筆記/聰明工作者的防呆技術.md",
     "1-文獻筆記/成熟.md",
@@ -176,8 +175,6 @@
     "0-閃念筆記/attachments/樓雨晴-綺情之尋覓篇-重生.pdf",
     "0-閃念筆記/attachments",
     "樓雨晴-綺情之尋覓篇-重生.pdf",
-    "Z-樣板",
-    "X-主題索引",
-    "4-生產力"
+    "Z-樣板"
   ]
 }
