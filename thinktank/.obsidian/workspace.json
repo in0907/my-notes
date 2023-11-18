@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-日誌/esharp筆記.md",
+                "file": "2-文獻筆記/未命名.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-日誌/esharp筆記.md",
+                "file": "2-文獻筆記/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-日誌/esharp筆記.md",
+                "file": "2-文獻筆記/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-日誌/esharp筆記.md"
+                "file": "2-文獻筆記/未命名.md"
               }
             }
           },
@@ -155,15 +155,16 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "35bca3006b06b72b",
+  "active": "4a63826d8763a52f",
   "lastOpenFiles": [
+    "1-日誌/esharp筆記.md",
+    "2-文獻筆記/未命名.md",
     "2-文獻筆記/成熟/未命名",
     "2-文獻筆記/成熟",
     "hello word.canvas",
     "0-閃念筆記/未命名.md",
     "未命名.canvas",
     "2023-10-15.md",
-    "1-日誌/esharp筆記.md",
     "0-閃念筆記/1223.md",
     "0-閃念筆記/DEMO附件.md",
     "0-閃念筆記/attachments/樓雨晴-綺情之尋覓篇-重生.pdf",
@@ -173,7 +174,6 @@
     "Z-樣板",
     "X-主題索引",
     "4-生產力",
-    "3-投資理財",
-    "2-文獻筆記"
+    "3-投資理財"
   ]
 }
