@@ -4,42 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "d95dee4a941796a3",
-        "type": "tabs",
-        "dimension": 49.26470588235294,
-        "children": [
-          {
-            "id": "4a63826d8763a52f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-文獻筆記/把結構力變習慣.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dbf068e78fd0b4cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-文獻筆記/把結構力變習慣.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "630df16e8ab3db9f"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "e048a2a611a6ebb8",
         "type": "tabs",
-        "dimension": 50.73529411764706,
         "children": [
           {
             "id": "d84b4a48e4e53983",
@@ -51,8 +17,7 @@
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "630df16e8ab3db9f"
+            }
           },
           {
             "id": "534348f40ff5809a",
@@ -66,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +168,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "dbf068e78fd0b4cd",
+  "active": "d84b4a48e4e53983",
   "lastOpenFiles": [
     "0-閃念筆記/重點.md",
     "1-文獻筆記/把結構力變習慣.md",
