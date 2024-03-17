@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "a1a60d58ea8d3774",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "db38506fdeb42b0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-文獻筆記/聰明工作者的防呆技術.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-文獻筆記/聰明工作者的防呆技術.md",
+                "file": "1-文獻筆記/把結構力變習慣.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-文獻筆記/聰明工作者的防呆技術.md",
+                "file": "1-文獻筆記/把結構力變習慣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-文獻筆記/聰明工作者的防呆技術.md"
+                "file": "1-文獻筆記/把結構力變習慣.md"
               }
             }
           },
@@ -174,10 +156,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "db38506fdeb42b0d",
+  "active": "e913f68112860091",
   "lastOpenFiles": [
-    "1-文獻筆記/把結構力變習慣.md",
     "1-文獻筆記/聰明工作者的防呆技術.md",
+    "1-文獻筆記/把結構力變習慣.md",
     "0-閃念筆記/練習.md",
     "0-閃念筆記/attachments/Pasted image 20240317224325.png",
     "0-閃念筆記/attachments/Pasted image 20240317192418.png",
