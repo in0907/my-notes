@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "dbf068e78fd0b4cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-文獻筆記/把結構力變習慣.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,11 +168,12 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "35bca3006b06b72b",
+  "active": "dbf068e78fd0b4cd",
   "lastOpenFiles": [
+    "0-閃念筆記/未命名 1.md",
+    "1-文獻筆記/把結構力變習慣.md",
     "未命名",
     "未命名 1.canvas",
-    "1-文獻筆記/把結構力變習慣.md",
     "1-文獻筆記/聰明工作者的防呆技術.md",
     "1-文獻筆記/attachments/Pasted image 20231118183508.png",
     "1-文獻筆記/attachments/Pasted image 20231118182634.png",
