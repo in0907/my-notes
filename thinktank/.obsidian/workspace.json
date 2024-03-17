@@ -18,8 +18,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "311c7784f38cb138",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-文獻筆記/把結構力變習慣.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-文獻筆記/把結構力變習慣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1-文獻筆記/把結構力變習慣.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,11 +161,11 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "e913f68112860091",
+  "active": "311c7784f38cb138",
   "lastOpenFiles": [
+    "1-文獻筆記/把結構力變習慣.md",
     "1-文獻筆記/attachments/曼陀羅圖.gif",
     "1-文獻筆記/attachments/Pasted image 20231118182231.png",
-    "1-文獻筆記/把結構力變習慣.md",
     "1-文獻筆記/成熟.md",
     "1-文獻筆記/attachments/Pasted image 20231118183508.png",
     "1-文獻筆記/attachments/Pasted image 20231118182634.png",
