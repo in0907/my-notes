@@ -11,8 +11,12 @@
             "id": "e913f68112860091",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1-文獻筆記/把結構力變習慣.md",
+                "mode": "source",
+                "source": true
+              }
             },
             "group": "bcff54f9ab934011"
           }
@@ -124,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1-文獻筆記/把結構力變習慣.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1-文獻筆記/把結構力變習慣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1-文獻筆記/把結構力變習慣.md"
+              }
             }
           },
           {
