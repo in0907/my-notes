@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "e298f9e100961fc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-閃念筆記/未命名 2.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "534348f40ff5809a",
             "type": "leaf",
             "state": {
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-閃念筆記/未命名 2.md",
+                "file": "0-閃念筆記/重點.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-閃念筆記/未命名 2.md",
+                "file": "0-閃念筆記/重點.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-閃念筆記/未命名 2.md"
+                "file": "0-閃念筆記/重點.md"
               }
             }
           },
@@ -181,12 +169,13 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "e298f9e100961fc3",
+  "active": "534348f40ff5809a",
   "lastOpenFiles": [
-    "0-閃念筆記/attachments/Pasted image 20240317192418.png",
     "1-文獻筆記/把結構力變習慣.md",
-    "0-閃念筆記/未命名 2.md",
     "0-閃念筆記/重點.md",
+    "0-閃念筆記/未命名 2.md",
+    "0-閃念筆記/attachments/曼陀羅圖.jfif",
+    "0-閃念筆記/attachments/Pasted image 20240317192418.png",
     "未命名",
     "0-閃念筆記/未命名 1.md",
     "未命名 1.canvas",
@@ -210,7 +199,6 @@
     "0-閃念筆記/DEMO附件.md",
     "0-閃念筆記/attachments/樓雨晴-綺情之尋覓篇-重生.pdf",
     "0-閃念筆記/attachments",
-    "樓雨晴-綺情之尋覓篇-重生.pdf",
-    "Z-樣板"
+    "樓雨晴-綺情之尋覓篇-重生.pdf"
   ]
 }
