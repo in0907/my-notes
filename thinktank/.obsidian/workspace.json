@@ -6,6 +6,7 @@
       {
         "id": "d95dee4a941796a3",
         "type": "tabs",
+        "dimension": 49.26470588235294,
         "children": [
           {
             "id": "4a63826d8763a52f",
@@ -38,6 +39,7 @@
       {
         "id": "e048a2a611a6ebb8",
         "type": "tabs",
+        "dimension": 50.73529411764706,
         "children": [
           {
             "id": "d84b4a48e4e53983",
@@ -131,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-閃念筆記/重點.md",
+                "file": "1-文獻筆記/把結構力變習慣.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-閃念筆記/重點.md",
+                "file": "1-文獻筆記/把結構力變習慣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-閃念筆記/重點.md"
+                "file": "1-文獻筆記/把結構力變習慣.md"
               }
             }
           },
@@ -202,10 +204,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "534348f40ff5809a",
+  "active": "dbf068e78fd0b4cd",
   "lastOpenFiles": [
-    "1-文獻筆記/把結構力變習慣.md",
     "0-閃念筆記/重點.md",
+    "1-文獻筆記/把結構力變習慣.md",
     "未命名",
     "0-閃念筆記/未命名 1.md",
     "未命名 1.canvas",
