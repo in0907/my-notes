@@ -13,54 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-文獻筆記/聰明工作者的防呆技術.md",
+                "file": "1-文獻筆記/把結構力變習慣.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "bcff54f9ab934011"
+            }
           }
         ]
       },
       {
-        "id": "98ee92f915ed7e1e",
+        "id": "a1a60d58ea8d3774",
         "type": "tabs",
         "children": [
           {
-            "id": "f3d4b23786afab4b",
+            "id": "db38506fdeb42b0d",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
                 "file": "1-文獻筆記/聰明工作者的防呆技術.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
+                "mode": "source",
+                "source": true
               }
-            },
-            "group": "bcff54f9ab934011"
+            }
           }
         ]
       }
@@ -199,7 +174,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "e913f68112860091",
+  "active": "db38506fdeb42b0d",
   "lastOpenFiles": [
     "1-文獻筆記/把結構力變習慣.md",
     "1-文獻筆記/聰明工作者的防呆技術.md",
