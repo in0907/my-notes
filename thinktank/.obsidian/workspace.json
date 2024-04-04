@@ -11,13 +11,8 @@
             "id": "e913f68112860091",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-文獻筆記/把結構力變習慣.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-文獻筆記/把結構力變習慣.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-文獻筆記/把結構力變習慣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1-文獻筆記/把結構力變習慣.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,8 +158,8 @@
   },
   "active": "e913f68112860091",
   "lastOpenFiles": [
-    "2-日誌/蘋果.md",
     "1-文獻筆記/把結構力變習慣.md",
+    "2-日誌/蘋果.md",
     "未命名",
     "1-文獻筆記/聰明工作者的防呆技術.md",
     "0-閃念筆記/練習.md",
