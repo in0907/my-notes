@@ -11,8 +11,13 @@
             "id": "e913f68112860091",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2023-10-15.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-10-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-10-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2023-10-15.md"
+              }
             }
           },
           {
@@ -157,10 +166,10 @@
   },
   "active": "e913f68112860091",
   "lastOpenFiles": [
-    "1-文獻筆記/把結構力變習慣.md",
     "2-日誌/蘋果.md",
-    "未命名",
     "1-文獻筆記/聰明工作者的防呆技術.md",
+    "1-文獻筆記/把結構力變習慣.md",
+    "未命名",
     "0-閃念筆記/練習.md",
     "0-閃念筆記/attachments/Pasted image 20240317224325.png",
     "0-閃念筆記/attachments/Pasted image 20240317192418.png",
