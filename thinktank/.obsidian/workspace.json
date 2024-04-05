@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d6b505ea3efa92c",
+        "id": "8f90932394e6374a",
         "type": "tabs",
         "children": [
           {
-            "id": "e913f68112860091",
+            "id": "f37ca4abeb4c5480",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-10-15.md",
+                "file": "0-閃念筆記/未命名 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-10-15.md",
+                "file": "0-閃念筆記/未命名 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-10-15.md",
+                "file": "0-閃念筆記/未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-10-15.md"
+                "file": "0-閃念筆記/未命名 1.md"
               }
             }
           },
@@ -164,12 +164,17 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "e913f68112860091",
+  "active": "f37ca4abeb4c5480",
   "lastOpenFiles": [
+    "hello word.canvas",
+    "0-閃念筆記/未命名 1.md",
+    "未命名",
+    "2023-10-15.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
     "2-日誌/蘋果.md",
     "1-文獻筆記/聰明工作者的防呆技術.md",
     "1-文獻筆記/把結構力變習慣.md",
-    "未命名",
     "0-閃念筆記/練習.md",
     "0-閃念筆記/attachments/Pasted image 20240317224325.png",
     "0-閃念筆記/attachments/Pasted image 20240317192418.png",
@@ -184,13 +189,9 @@
     "1-文獻筆記/attachments/Pasted image 20231118182634.png",
     "0-閃念筆記/重點.md",
     "0-閃念筆記/attachments/曼陀羅圖.jfif",
-    "未命名 1.canvas",
     "1-文獻筆記/attachments",
-    "未命名.canvas",
     "attachments/曼陀羅圖.jfif",
     "attachments",
-    "hello word.canvas",
-    "2023-10-15.md",
     "2-文獻筆記/未命名.md",
     "2-文獻筆記/成熟/未命名",
     "2-文獻筆記/成熟",
