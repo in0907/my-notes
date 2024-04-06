@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8fac4a9d70c6fcff",
+        "id": "cf02cd0fe33fe004",
         "type": "tabs",
         "children": [
           {
-            "id": "7f18a230638d34e5",
+            "id": "5656869f9a46a8e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z-模板/書名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z-模板/書名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z-模板/書名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Z-模板/書名.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,13 +157,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35bca3006b06b72b",
+  "active": "5656869f9a46a8e3",
   "lastOpenFiles": [
+    "2024-04-06.md",
+    "Z-模板/書名.md",
     "1-文獻筆記/成熟.md",
     "1-文獻筆記/未命名.md",
     "未命名",
     "1-文獻筆記/把結構力變習慣.md",
-    "Z-模板/書名.md",
     "讀書筆記.md",
     "0-閃念筆記/讀書筆記.md",
     "2023-10-15.md",
