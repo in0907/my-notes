@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-文獻筆記/成熟.md",
+                "file": "1-文獻筆記/把結構力變習慣.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-文獻筆記/讀書筆記.md",
+                "file": "1-文獻筆記/成熟.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-文獻筆記/讀書筆記.md",
+                "file": "1-文獻筆記/把結構力變習慣.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-文獻筆記/讀書筆記.md",
+                "file": "1-文獻筆記/把結構力變習慣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-文獻筆記/讀書筆記.md"
+                "file": "1-文獻筆記/把結構力變習慣.md"
               }
             }
           },
@@ -180,9 +179,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82f7449ab38793e1",
+  "active": "d2b063c65c7963f9",
   "lastOpenFiles": [
     "1-文獻筆記/成熟.md",
+    "1-文獻筆記/把結構力變習慣.md",
     "1-文獻筆記/讀書筆記.md",
     "讀書筆記.md",
     "0-閃念筆記/讀書筆記.md",
@@ -193,7 +193,6 @@
     "未命名.canvas",
     "2-日誌/蘋果.md",
     "1-文獻筆記/聰明工作者的防呆技術.md",
-    "1-文獻筆記/把結構力變習慣.md",
     "0-閃念筆記/練習.md",
     "0-閃念筆記/attachments/Pasted image 20240317224325.png",
     "0-閃念筆記/attachments/Pasted image 20240317192418.png",
