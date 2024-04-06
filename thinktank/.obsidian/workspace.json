@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-文獻筆記/讀書筆記.md",
+                "file": "Z-模板/讀書筆記.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-文獻筆記/讀書筆記.md",
+                "file": "Z-模板/讀書筆記.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-文獻筆記/讀書筆記.md",
+                "file": "Z-模板/讀書筆記.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-文獻筆記/讀書筆記.md"
+                "file": "Z-模板/讀書筆記.md"
               }
             }
           },
@@ -166,13 +166,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f18a230638d34e5",
+  "active": "35bca3006b06b72b",
   "lastOpenFiles": [
     "1-文獻筆記/成熟.md",
     "1-文獻筆記/未命名.md",
     "未命名",
     "1-文獻筆記/把結構力變習慣.md",
-    "1-文獻筆記/讀書筆記.md",
+    "Z-模板/讀書筆記.md",
     "讀書筆記.md",
     "0-閃念筆記/讀書筆記.md",
     "2023-10-15.md",
