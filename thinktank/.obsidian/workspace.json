@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c8318e75df762e61",
+        "id": "8fac4a9d70c6fcff",
         "type": "tabs",
         "children": [
           {
-            "id": "072befa41878d11d",
+            "id": "7f18a230638d34e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-文獻筆記/把結構力變習慣.md",
+                "file": "1-文獻筆記/成熟.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-文獻筆記/把結構力變習慣.md",
+                "file": "1-文獻筆記/成熟.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-文獻筆記/把結構力變習慣.md",
+                "file": "1-文獻筆記/成熟.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-文獻筆記/把結構力變習慣.md"
+                "file": "1-文獻筆記/成熟.md"
               }
             }
           },
@@ -166,10 +166,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "072befa41878d11d",
+  "active": "7f18a230638d34e5",
   "lastOpenFiles": [
-    "1-文獻筆記/成熟.md",
     "1-文獻筆記/把結構力變習慣.md",
+    "1-文獻筆記/成熟.md",
     "1-文獻筆記/讀書筆記.md",
     "讀書筆記.md",
     "0-閃念筆記/讀書筆記.md",
