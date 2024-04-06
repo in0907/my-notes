@@ -161,11 +161,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +180,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "68bd449aab61dd8d",
+  "active": "82f7449ab38793e1",
   "lastOpenFiles": [
     "1-文獻筆記/成熟.md",
     "1-文獻筆記/讀書筆記.md",
