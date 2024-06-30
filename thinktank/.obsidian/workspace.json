@@ -19,8 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "33a039cb37678f33",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +177,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5656869f9a46a8e3",
+  "active": "33a039cb37678f33",
   "lastOpenFiles": [
     "0-閃念筆記/未命名.md",
     "0-閃念筆記/重點.md",
